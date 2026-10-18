@@ -6,6 +6,8 @@ body{
 img{
 	width:300px;
 	height:300px;
+	display:flex;
 	justify-content:center;
 	box-shadow:0.5px;
+	box-radius:3px;
 }
