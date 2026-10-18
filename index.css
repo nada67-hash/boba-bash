@@ -2,6 +2,8 @@ body{
   padding: 25px;
   background-color: rgb(178, 234, 252);
 }
-.title {
-	color: #5C6AC4;
+
+img{
+	width:300px;
+	height:300px;
 }
