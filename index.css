@@ -24,7 +24,7 @@ img{
 	background-color:#ffb8e0;
 	border: 0.3rem solid rgba(255, 239, 160, 0.968);
 	border-radius:9px;
-	box-shadow:0.5px 1rem rgba(23, 23, 23, 0.1);
+	box-shadow:0.5px 0.5rem rgba(23, 23, 23, 0.1);
 }
 
 .songs .dash h3{
